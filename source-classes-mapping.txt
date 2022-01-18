@@ -1,0 +1,9 @@
+com/example/iotlabapp/MainActivity.java
+ com.example.iotlabapp.MainActivity
+ com.example.iotlabapp.MainActivity$1
+ com.example.iotlabapp.MainActivity$1$1
+ com.example.iotlabapp.MainActivity$1$2
+ com.example.iotlabapp.MainActivity$2
+ com.example.iotlabapp.MainActivity$2$1
+com/example/iotlabapp/BuildConfig.java
+ com.example.iotlabapp.BuildConfig
